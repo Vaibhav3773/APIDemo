@@ -1,0 +1,1 @@
+seleniumReportPath=E:/Node1/workspace/TestJob/target
